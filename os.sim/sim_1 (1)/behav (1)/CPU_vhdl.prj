@@ -1,0 +1,20 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  "../../../os.srcs/sources_1/new/DFF.vhd"
+vhdl xil_defaultlib  "../../../os.srcs/sources_1/new/HalfAdder.vhd"
+vhdl xil_defaultlib  "../../../os.srcs/sources_1/new/mux.vhd"
+vhdl xil_defaultlib  "../../../os.srcs/sources_1/new/BI.vhd"
+vhdl xil_defaultlib  "../../../os.srcs/sources_1/new/FullAdder.vhd"
+vhdl xil_defaultlib  "../../../os.srcs/sources_1/new/REG.vhd"
+vhdl xil_defaultlib  "../../../os.srcs/sources_1/new/or16way.vhd"
+vhdl xil_defaultlib  "../../../os.srcs/sources_1/new/Not16.vhd"
+vhdl xil_defaultlib  "../../../os.srcs/sources_1/new/And16.vhd"
+vhdl xil_defaultlib  "../../../os.srcs/sources_1/new/Add16.vhd"
+vhdl xil_defaultlib  "../../../os.srcs/sources_1/new/Mux16.vhd"
+vhdl xil_defaultlib  "../../../os.srcs/sources_1/new/PC.vhd"
+vhdl xil_defaultlib  "../../../os.srcs/sources_1/new/DRegister.vhd"
+vhdl xil_defaultlib  "../../../os.srcs/sources_1/new/ARegister.vhd"
+vhdl xil_defaultlib  "../../../os.srcs/sources_1/new/ALU.vhd"
+vhdl xil_defaultlib  "../../../os.srcs/sources_1/new/CPU.vhd"
+
+# Do not sort compile order
+nosort

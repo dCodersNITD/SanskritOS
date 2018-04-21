@@ -1,0 +1,62 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/user/os/os.srcs/sources_1/new/mux.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity mux
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/user/os/os.srcs/sources_1/new/DFF.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity DFF
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/user/os/os.srcs/sources_1/new/Mux16.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Mux16
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/user/os/os.srcs/sources_1/new/Mux4Way16.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Mux4Way16
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/user/os/os.srcs/sources_1/new/BI.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity BI
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/user/os/os.srcs/sources_1/new/Mux8Way16.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Mux8Way16
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/user/os/os.srcs/sources_1/new/DMux8Way.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity DMux8Way
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/user/os/os.srcs/sources_1/new/REG.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity REG
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/user/os/os.srcs/sources_1/new/RAM8.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity RAM8
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/user/os/os.srcs/sources_1/new/HalfAdder.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity HalfAdder
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/user/os/os.srcs/sources_1/new/RAM64.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity RAM64
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/user/os/os.srcs/sources_1/new/FullAdder.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity FullAdder
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/user/os/os.srcs/sources_1/new/RAM512.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity RAM512
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/user/os/os.srcs/sources_1/new/or16way.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity or16way
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/user/os/os.srcs/sources_1/new/Not16.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Not16
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/user/os/os.srcs/sources_1/new/DMux4Way.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity DMux4Way
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/user/os/os.srcs/sources_1/new/And16.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity And16
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/user/os/os.srcs/sources_1/new/Add16.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Add16
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/user/os/os.srcs/sources_1/new/DMux.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity DMux
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/user/os/os.srcs/sources_1/new/RAM4K.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity RAM4K
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/user/os/os.srcs/sources_1/new/RAM16K.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity RAM16K
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/user/os/os.srcs/sources_1/new/PC.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity PC
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/user/os/os.srcs/sources_1/new/Keyboard.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Keyboard
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/user/os/os.srcs/sources_1/new/DRegister.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity DRegister
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/user/os/os.srcs/sources_1/new/ARegister.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity ARegister
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/user/os/os.srcs/sources_1/new/ALU.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity ALU
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/user/os/os.srcs/sources_1/new/SCREEN.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity SCREEN
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/user/os/os.srcs/sources_1/new/ROM32K.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity ROM32K
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/user/os/os.srcs/sources_1/new/memory.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity memory
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/user/os/os.srcs/sources_1/new/CPU.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity CPU
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/user/os/os.srcs/sources_1/new/Computer.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Computer

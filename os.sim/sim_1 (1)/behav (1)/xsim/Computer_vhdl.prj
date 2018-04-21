@@ -1,0 +1,36 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../os.srcs/sources_1/new/ALU.vhd" \
+"../../../../os.srcs/sources_1/new/ARegister.vhd" \
+"../../../../os.srcs/sources_1/new/Add16.vhd" \
+"../../../../os.srcs/sources_1/new/And16.vhd" \
+"../../../../os.srcs/sources_1/new/BI.vhd" \
+"../../../../os.srcs/sources_1/new/CPU.vhd" \
+"../../../../os.srcs/sources_1/new/DFF.vhd" \
+"../../../../os.srcs/sources_1/new/DMux.vhd" \
+"../../../../os.srcs/sources_1/new/DMux4Way.vhd" \
+"../../../../os.srcs/sources_1/new/DMux8Way.vhd" \
+"../../../../os.srcs/sources_1/new/DRegister.vhd" \
+"../../../../os.srcs/sources_1/new/FullAdder.vhd" \
+"../../../../os.srcs/sources_1/new/HalfAdder.vhd" \
+"../../../../os.srcs/sources_1/new/Keyboard.vhd" \
+"../../../../os.srcs/sources_1/new/Mux16.vhd" \
+"../../../../os.srcs/sources_1/new/Mux4Way16.vhd" \
+"../../../../os.srcs/sources_1/new/Mux8Way16.vhd" \
+"../../../../os.srcs/sources_1/new/Not16.vhd" \
+"../../../../os.srcs/sources_1/new/PC.vhd" \
+"../../../../os.srcs/sources_1/new/RAM16K.vhd" \
+"../../../../os.srcs/sources_1/new/RAM4K.vhd" \
+"../../../../os.srcs/sources_1/new/RAM512.vhd" \
+"../../../../os.srcs/sources_1/new/RAM64.vhd" \
+"../../../../os.srcs/sources_1/new/RAM8.vhd" \
+"../../../../os.srcs/sources_1/new/REG.vhd" \
+"../../../../os.srcs/sources_1/new/ROM32K.vhd" \
+"../../../../os.srcs/sources_1/new/SCREEN.vhd" \
+"../../../../os.srcs/sources_1/new/memory.vhd" \
+"../../../../os.srcs/sources_1/new/mux.vhd" \
+"../../../../os.srcs/sources_1/new/or16way.vhd" \
+"../../../../os.srcs/sources_1/new/Computer.vhd" \
+
+# Do not sort compile order
+nosort
